@@ -1,11 +1,10 @@
 # software-development
 Java
+
 SaaS Java Application Development and Integration Services
 
 GRhombus has an exceptionally talented team for its Java app development services, with over 20 years of experience. We are committed to serve our customers with end-to-end high-quality deliverables on time, in an optimized budget, with optimal cost of ownership, and using latest and trusted quality technologies for long running and sustainable Java solutions.
 
-
- java development
 We serve the needs of businesses such as start-ups, SaaS companies, and SMEs to large enterprises through our flexible short-term and long-term Java development offerings. Our Java architects can not only design and develop Java applications, but also can integrate your Java applications with custom applications, SaaS solutions, third-party services through Web services, API connections, and Enterprise Service Bus (ESB). At GRhombus,
 ‍
 
@@ -16,13 +15,16 @@ We focus on delivering quality at every stage of the software development lifecy
 We ensure fast and effective delivery through CI/CD pipeline-based devops, automated testing and deployment activities.
 
 .NET
+
 .Net Development
+
 Microsoft .NET is a programming language that supports a robust ecosystem to build powerful applications that is suitable for any device and platform. We offer .NET-based Software Development applications developed that are Cloud-ready, fast deliverable, scalable, and reliable. These applications provide fluid user experience through interactive JavaScript SPA and integrate through an enterprise services bus (ESB).
 
 Our consulting services enable you to choose the right technologies to create optimized solutions, address security vulnerabilities, and plugs gaps in business functionality.
 You can pick and choose our expert .Net developers either through onsite or offshore model to support your projects based on your needs.
 
 Python
+
 Python 3.x is a dynamic programming language for web development. Our highly skilled Python developers provide several web development services including scripting, websites development, mobile apps, and GUI applications.
 ‍
 We deliver Python development services in the following frameworks,
